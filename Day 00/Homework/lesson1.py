@@ -137,5 +137,3 @@ forward(50)
 left(90)
 
 exitonclick()
-
-exitonclick()
