@@ -1,0 +1,1 @@
+# lower() function is almost the same as the upper() function. except it's effect on strings is the opposite of the effect caused by upper().

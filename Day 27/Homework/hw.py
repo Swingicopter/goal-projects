@@ -1,0 +1,1 @@
+# upper() is a function for a string. translating the string to all uppercase letters is the effect this function leaves on it's victim string.
