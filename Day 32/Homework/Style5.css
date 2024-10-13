@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(0, 35, 56);
+}
+p{
+    color: white; font-family: cursive;
+}
+a{
+    color: white; font-family: cursive;
+}
+b{
+    color: white; font-family: cursive;
+}
+h1{
+    color: white; font-family: cursive;
+}
+header{
+    border: 10px white double;
+}
+main{
+    border: 10px white double;
+}
+footer{
+    border: 10px white double;
+}
