@@ -1,0 +1,20 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: rgb(0, 255, 0);
+    text-align: center;
+    text-shadow: 0px 0px 5px white;
+    text-decoration: wavy underline;
+    font-size: 50px
+}
+
+p{
+    color: black;
+    text-shadow: 1px 1px 0px rgb(0, 255, 0);
+}
+
+#divblock{
+    text-align: center;
+}
