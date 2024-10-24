@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(7, 35, 41);
+}
+
+p{
+    color: white;
+    font-family: monospace;
+}
+
+a{
+    color: rgba(255, 255, 255, 0.353);
+    font-family: monospace;
+}
+
+a:hover{
+    color: white;
+    font-size: 14px;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: monospace;
+    border: 10px white double;
+}
+h2{
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
+h3{
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
+h4{
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
+h5{
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
+h6{
+    text-align: center;
+    color: white;
+    font-family: monospace;
+}
