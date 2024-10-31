@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+table{
+    border: 2px white solid;
+    border-collapse: collapse;
+    text-align: center;
+    color: white;
+}
+tr{
+    border: 2px white solid;
+    border-collapse: collapse;
+    color: white;
+}
+td{
+    border: 2px white solid;
+    border-collapse: collapse;
+    color: white;
+}
+th{
+    border: 2px white solid;
+    border-collapse: collapse;
+    background-color: red;
+}
