@@ -9,8 +9,8 @@ print()
 for i in range(5):
     print(li2[i + 3])
 print()
-print('ver gavige ;(')
+print((li3[-4:-1])[::-1])
 print()
-while i < 10:
+while i < len(li4):
     print(li4[i])
-    i = i + 1
+    i += 1
