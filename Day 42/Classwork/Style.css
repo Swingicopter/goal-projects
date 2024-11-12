@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(23, 19, 46);
+}
+
+form{
+    text-align: center;
+    background: rgba(255, 255, 255, 0.15);
+    border: 2px white solid;
+    border-radius: 6px;
+}
+
+input[type="text"]{
+    border: 2px white solid;
+    border-radius: 3px;
+    background: none;
+}
+
+input[type="password"]{
+    border: 2px white solid;
+    border-radius: 3px;
+    background: none;
+}
