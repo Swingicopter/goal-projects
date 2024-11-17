@@ -1,0 +1,1 @@
+# you make a variable with the for loop, then you will be able to use it in the for cycle. you can use the range function to make the variable grow per cycle.
