@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    background: red;
+    color: white;
+    border-radius: 5px 5px 75px 75px;
+    margin-left: 100px;
+}

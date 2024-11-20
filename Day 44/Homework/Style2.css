@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+
+img{
+    margin-top: 135px;
+    margin-left: 465px;
+    padding: 50px;
+    border: 5px rgb(0, 128, 255) solid;
+}
