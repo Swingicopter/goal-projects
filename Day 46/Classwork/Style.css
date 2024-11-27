@@ -1,0 +1,9 @@
+div{
+    flex-direction: row;
+    border: 2px black solid;
+}
+
+p{
+    border: 2px black solid;
+    display: inline;
+}
