@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(28, 44, 54);
+}
+
+div{
+    display: flex;
+    border: 2px white solid;
+    flex-direction: column;
+}
+
+.wrap{
+    color: white;
+    flex-wrap: wrap;
+}
+
+.shrink{
+    color: white;
+    flex-shrink: 70px;
+}

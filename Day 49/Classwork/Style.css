@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(26, 46, 69);
+}
+
+div{
+    width: 175px;
+    height: 175px;
+    background: black;
+    border: 2px white solid;
+    color: white;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 150px;
+}

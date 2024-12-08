@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(28, 44, 54);
+    color: white;
+}
+
+.block{
+    display: inline;
+}
+
+.inline{
+    display: block;
+}

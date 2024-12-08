@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(28, 44, 54);
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    border: 2px rgba(255, 255, 255, 0.5), solid;
+    background-color: black;
+}
+
+p{
+    color: white;
+    font-family: monospace;
+    flex-wrap: wrap;
+}
