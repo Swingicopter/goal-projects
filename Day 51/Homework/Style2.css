@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(28, 44, 54);
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    border: 2px red solid;
+    color: red;
+    background-color: black;
+}

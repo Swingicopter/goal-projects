@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+#z{
+    width: 100px;
+    height: 100%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#a{
+    background: red;
+}
+
+#b{
+    background: yellow;
+}
+
+#c{
+    background: cyan;
+}
+
+#d{
+    background: magenta;
+}
