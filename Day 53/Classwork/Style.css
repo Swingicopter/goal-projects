@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(17, 34, 54);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img{
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px 5px rgb(143, 73, 159);
+    transition: 0.1s;
+}
+
+img:hover{
+    box-shadow: 5px 5px 30px 5px rgb(235, 145, 255)
+}

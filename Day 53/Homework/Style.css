@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(17, 34, 54);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+#maindiv{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.images{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+img{
+    border-radius: 15px;
+    box-shadow: 5px 5px 20px 5px rgb(143, 73, 159);
+    transition: 250ms;
+}
+
+img:hover{
+    box-shadow: 5px 5px 30px 5px rgb(235, 145, 255)
+}
+
+#p{
+    text-align: center;
+    border: 0px rgb(17, 34, 54) none;
+}
+
+p{
+    flex-wrap: wrap;
+    border: 2px white solid;
+    border-radius: 5px;
+}
