@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    width: 250px;
+    height: 410px;
+    background: white;
+    margin-top: 100px;
+    margin-left: 605px;
+    box-shadow: 2px 2px 100px 2px black;
+    border-radius: 7px;
+}
+
+img{
+    margin-left: 65px;
+    margin-top: 20px;
+}

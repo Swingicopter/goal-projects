@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://cdn.discordapp.com/attachments/1240590130633248789/1320439011960950854/GOA.png?ex=67699a29&is=676848a9&hm=be0bcab3747787d9d0b75e25e96ce0759613d6d039eaed1801f63025f4623b53&);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    width: 250px;
+    height: 410px;
+    background: white;
+    margin-top: 100px;
+    margin-left: 605px;
+    box-shadow: 2px 2px 100px 2px rgb(255, 255, 255);
+    border-radius: 7px;
+}
+
+img{
+    margin-left: 65px;
+    border-radius: 100%;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 7px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
