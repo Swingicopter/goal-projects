@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer{
+    background-color: white;
+    color: black;
+    position: fixed;
+    top: 541.5px;
+}

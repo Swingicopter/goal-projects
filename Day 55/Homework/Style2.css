@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    background: black;
+    border: 2px white solid;
+    height: 100px;
+    width: 100px;
+}

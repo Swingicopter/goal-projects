@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    position: fixed;
+    left: 44%;
+    top: 27%;
+}
