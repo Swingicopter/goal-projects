@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    background: white;
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    font-size: 8px;
+    color: rgba(255, 255, 255, 0.3);
+    background-image: url(YujiUncanny.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

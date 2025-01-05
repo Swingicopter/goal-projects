@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(17, 34, 54);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    height: 500px;
+    width: 500px;
+    border: 2px white solid;
+    border-radius: 10px;
+    background-image: url(YujiUncanny.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    left: 50px;
+    top: 50px;
+    transition: 0.2s;
+}
+
+div:hover{
+    box-shadow: 6px 6px 40px 4px rgb(148, 86, 97);
+}
