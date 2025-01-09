@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    width: 150px;
+    height: 200px;
+    border: 2px white solid;
+    transition: 0.2s;
+}
+div:active{
+    transform: translate(50px, 0);
+    transform: rotate(25deg);
+    transform: scale(4);
+}

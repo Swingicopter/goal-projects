@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    width: 150px;
+    height: 200px;
+}
+
+#a{
+    background: red;
+}
+#a:active{
+    transform: translate(0, 50px);
+}
+
+#b{
+    background: hsl(90, 100%, 50%);
+}
+#b:active{
+    transform: scale(1.5);
+}
+
+#c{
+    background: cyan;
+}
+#c:active{
+    transform: translate(10px, 10px);
+}
+
+#d{
+    background: hsl(270, 100%, 50%);
+    transition: 0.1s;
+}
+#d:active{
+    transform: rotate(-45deg);
+}
