@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    background: white;
+    animation-name: anim;
+    animation-duration: 1s;
+}
+
+@keyframes anim{
+    0%{
+
+    }
+    33%{
+        transform: scale(0.8);
+    }
+    67%{
+        transform: rotate(360deg);
+    }
+    100%{
+        
+    }
+}

@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+}
+
+p{
+    color: red;
+    animation-name: anim;
+    animation-duration: 2s;
+}
+
+@keyframes anim{
+    0%{
+
+    }
+    13%{
+        color: black;
+    }
+    33%{
+        color: rgb(0, 255, 0);
+    }
+    50%{
+        color: black;
+    }
+    67%{
+        color: blue;
+    }
+    85%{
+        color: black;
+    }
+    100%{
+
+    }
+}

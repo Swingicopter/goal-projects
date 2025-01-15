@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 20px;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    background: red;
+    animation-name: animhw1;
+    animation-duration: 2s;
+}
+
+@keyframes animhw1{
+    0%{
+
+    }
+    50%{
+        background-color: blue;
+    }
+    100%{
+        
+    }
+}

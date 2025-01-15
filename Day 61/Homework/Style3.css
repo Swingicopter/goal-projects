@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    background: black;
+    border: 2px white solid;
+    font-size: 14.92px;
+    animation-name: rotate;
+    animation-duration: 10s;
+}
+
+@keyframes rotate{
+    0%{
+
+    }
+    50%{
+        transform: rotate(360deg);
+    }
+    100%{
+
+    }
+}
