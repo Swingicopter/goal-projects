@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    background: white;
+    margin-left: 200px;
+    animation: anim 2s ease infinite;
+}
+
+@keyframes anim{
+    0%{
+        background-color: rgb(123, 167, 188);
+    }
+    100%{
+        transform: translate(1200px, 0) rotate(360deg);
+        background-color: rgb(255, 209, 0);
+        border-radius: 25%;
+    }
+}

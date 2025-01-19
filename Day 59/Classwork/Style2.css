@@ -11,7 +11,5 @@ div{
     transition: 0.2s;
 }
 div:active{
-    transform: translate(50px, 0);
-    transform: rotate(25deg);
-    transform: scale(4);
+    transform: translate(50px, 0) rotate(25deg) scale(4);
 }
