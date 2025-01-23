@@ -1,0 +1,41 @@
+body{
+    background-color: goldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    width: 500px;
+    background: white;
+    border-radius: 15px;
+    position: absolute;
+    left: 675px;
+    top: 100px;
+    
+}
+
+img{
+    align-self: center;
+    border-radius: 15px;
+}
+
+h1{
+    align-self: center;
+}
+h2{
+    margin-left: 20px;
+}
+
+p{
+    margin-left: 20px;
+}
+
+#prep{
+    border-radius: 15px;
+    background: rgb(255, 247, 252);
+    margin-left: 20px;
+    margin-right: 20px;
+}

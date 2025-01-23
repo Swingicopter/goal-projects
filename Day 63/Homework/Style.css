@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#red{
+    width: 100px;
+    height: 100px;
+    background: red;
+    border-radius: 50%;
+    position: fixed;
+    top: 400px;
+    left: 50px;
+}
+#blue{
+    width: 100px;
+    height: 100px;
+    background: blue;
+    border-radius: 50%;
+    position: fixed;
+    top: 400px;
+    right: 50px;
+}
+
+#bullet{
+    width: 25px;
+    height: 25px;
+    background: white;
+    border-radius: 50%;
+    position: fixed;
+    top: 438px;
+
+    animation: shoot 1.47s ease-out infinite;
+}
+
+@keyframes shoot{
+    0%{
+        transform: translate(100px, 0);
+    }
+    100%{
+        transform: translate(1780px, 0);
+    }
+}
