@@ -1,0 +1,51 @@
+body{
+    background-color: rgb(36, 54, 66);
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    margin-top: 150px;
+    margin-left: 600px;
+    background-image: url(Background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 400px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+h2{
+    margin-left: 12px;
+}
+p{
+    margin-left: 12px;
+}
+
+#star{
+    margin-bottom: 0px;
+}
+
+#rating{
+    display: inline;
+    width: 120px;
+    height: 30px;
+    border-radius: 13px;
+    align-self: center;
+    background-color: black;
+    border: 2px white solid;
+    color: white;
+    margin-block: 2px;
+}
+
+#submit{
+    display: inline;
+    width: 330px;
+    height: 30px;
+    border-radius: 12px;
+    align-self: center;
+    background-color: orange;
+    border: 2px rgb(34, 88, 138) solid;
+}
