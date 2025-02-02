@@ -1,0 +1,147 @@
+body{
+    background-image: url(BG.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#sun{
+    background: orange;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    top: 300px;
+    left: 700px;
+}
+
+#mercury{
+    background: grey;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+}
+#mercurydiv{
+    width: 300px;
+    height: 300px;
+    animation: year 7s linear infinite;
+    position: absolute;
+    top: 270px;
+    left: 670px;
+}
+
+#venus{
+    background: rgb(195, 121, 31);
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+}
+#venusdiv{
+    width: 400px;
+    height: 400px;
+    animation: year 12s linear infinite;
+    position: absolute;
+    top: 270px;
+    left: 670px;
+}
+
+#earth{
+    background: rgb(59, 59, 255);
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+}
+#earthdiv{
+    width: 500px;
+    height: 500px;
+    animation: year 15s linear infinite;
+    position: absolute;
+    top: 270px;
+    left: 670px;
+}
+
+#mars{
+    background: red;
+    width: 27px;
+    height: 27px;
+    border-radius: 50%;
+}
+#marsdiv{
+    width: 600px;
+    height: 600px;
+    animation: year 18s linear infinite;
+    position: absolute;
+    top: 270px;
+    left: 670px;
+}
+
+#jupiter{
+    background: coral;
+    width: 78px;
+    height: 78px;
+    border-radius: 50%;
+}
+#jupiterdiv{
+    width: 800px;
+    height: 800px;
+    animation: year 43s linear infinite;
+    position: absolute;
+    top: 270px;
+    left: 670px;
+}
+
+#saturn{
+    background: rgb(255, 194, 80);
+    width: 65px;
+    height: 65px;
+    border-radius: 50%;
+}
+#saturndiv{
+    width: 1000px;
+    height: 1000px;
+    animation: year 52s linear infinite;
+    position: absolute;
+    top: 270px;
+    left: 670px;
+}
+
+#uranus{
+    background: deepskyblue;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+#uranusdiv{
+    width: 1100px;
+    height: 1100px;
+    animation: year 67s linear infinite;
+    position: absolute;
+    top: 270px;
+    left: 670px;
+}
+
+#neptune{
+    background: darkblue;
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+}
+#neptunediv{
+    width: 1200px;
+    height: 1200px;
+    animation: year 79s linear infinite;
+    position: absolute;
+    top: 270px;
+    left: 670px;
+}
+
+@keyframes year{
+    0%{
+
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}

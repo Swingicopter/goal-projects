@@ -1,0 +1,24 @@
+body{
+    background-image: url(Country.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#maindiv{
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.footballer{
+    flex-direction: column;
+}
