@@ -1,0 +1,15 @@
+body{
+    font-family: monospace;
+}
+
+#mdiv{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+img{
+    width: 250px;
+    height: 200px;
+}
