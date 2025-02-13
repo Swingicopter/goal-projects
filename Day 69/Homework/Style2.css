@@ -1,0 +1,41 @@
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+body{
+    background-color: rgb(26, 26, 26);
+}
+
+nav{
+    border-bottom: 1.2px white solid;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-inline: 200px;
+}
+
+a{
+    text-decoration: none;
+    padding-bottom: 30px;
+}
+
+p{
+    margin-inline: 200px;
+    font-size: 100px;
+    margin-block: 0px;
+}
+
+#grey{
+    color: grey;
+}
+
+footer{
+    border-top: 1.2px white solid;
+    margin-inline: 200px;
+}
+
+#foot{
+    font-size: 32px;
+    
+}
