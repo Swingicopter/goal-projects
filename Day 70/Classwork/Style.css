@@ -1,0 +1,26 @@
+*{
+    font-family: sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#logo{
+    margin-block: -200px;
+}
+
+#bigdiv{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#minidiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
