@@ -1,0 +1,1 @@
+document.getElementById("changed").textContent = "Burtchuladze Burtchuladze Burtchuladze Burtchuladze Burtchuladze Burtchuladze Burtchuladze Burtchuladze Burtchuladze Burtchuladze"
