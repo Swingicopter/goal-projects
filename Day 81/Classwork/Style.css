@@ -1,0 +1,21 @@
+body{
+    background-color: blueviolet;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+form{
+    margin-inline: 500px;
+    border: 2px white solid;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.3);
+}
+
+label{
+    margin-left: 30px;
+}
+
+button{
+    border-radius: 5px;
+    border: 2px black solid;
+}

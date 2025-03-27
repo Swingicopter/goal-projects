@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+form{
+    margin-inline: 500px;
+    border: 2px white solid;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+}
