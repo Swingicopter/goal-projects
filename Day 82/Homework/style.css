@@ -1,0 +1,30 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav{
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+#h1big{
+    font-size: 100px;
+}
+
+div{
+    height: 700px;
+    width: 1000px;
+    background: rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+    margin-top: -400px;
+    margin-left: 800px;
+}
+
+#parasmol{
+    color: rgba(0, 0, 0, 0.6);
+}
