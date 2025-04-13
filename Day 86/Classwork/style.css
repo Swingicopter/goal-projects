@@ -1,0 +1,20 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    background: white;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+#containerdiv{
+    border: 2px black solid;
+    flex-direction: column;
+}
+
+button{
+    margin: 8px;
+}
