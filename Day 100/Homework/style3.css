@@ -1,0 +1,31 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    border-radius: 15px;
+    border: none;
+    background-color: white;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    transition: 0.25s;
+}
+button:hover{
+    transform: scale(1.1);
+    background-color: rgb(180, 180, 180);
+}
+
+img{
+    border-radius: 10px;
+}
+
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h1{
+    text-align: center;
+}

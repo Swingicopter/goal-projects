@@ -1,0 +1,28 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+
+#counter{
+    border: 4px white double;
+    border-radius: 5px;
+}
+
+div{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button{
+    background-color: white;
+    border: 1px black solid;
+    border-radius: 10px;
+}
