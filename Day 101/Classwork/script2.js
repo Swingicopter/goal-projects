@@ -1,0 +1,6 @@
+let div = document.getElementById("container")
+let button = document.getElementById("button")
+let text = document.createTextNode("I replaced the button.")
+let paragraph = document.createElement("p")
+paragraph = paragraph.appendChild(text)
+div.replaceChild(button, paragraph)
