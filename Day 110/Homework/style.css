@@ -1,0 +1,31 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button{
+    border: 4px rgb(240, 240, 240) solid;
+    border-radius: 16px;
+}
+
+.parentdiv{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.childdiv{
+    background-color: black;
+    border-radius: 15px;
+    height: 600px;
+    border: 50px black solid;
+}
+
+img{
+    border-radius: 15px;
+}
