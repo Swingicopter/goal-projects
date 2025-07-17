@@ -1,0 +1,38 @@
+body{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    width: 250px;
+    height: 410px;
+    background: white;
+    margin-top: 250px;
+    margin-left: 805px;
+    box-shadow: 0px 0px 50px 2px rgb(0, 0, 0);
+    border-radius: 7px;
+}
+
+img{
+    border-top-left-radius: 7px;
+    border-top-right-radius: 7px;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+    color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#proceed{
+    color: white;
+    background-color: black;
+    border-radius: 7px;
+}
