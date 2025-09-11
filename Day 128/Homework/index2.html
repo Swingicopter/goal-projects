@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style2.css">
+    <title>Document</title>
+</head>
+<body>
+    <h1>News Feed with Filter/Search/Sort</h1>
+
+    <div id="controls">
+        <label for="tagSelect">Filter by Tag:</label>
+        <select id="tagSelect">
+            <option value="">All</option>
+            <option value="history">History</option>
+            <option value="american">American</option>
+            <option value="crime">Crime</option>
+            <option value="french">French</option>
+        </select>
+
+        <input type="text" id="searchInput" placeholder="Search by title...">
+        <button id="searchBtn">Search</button>
+
+        <button id="sortBtn">Sort A→Z</button>
+    </div>
+
+    <main id="content"></main>
+
+  <script src="script2.js"></script>
+</body>
+</html>
