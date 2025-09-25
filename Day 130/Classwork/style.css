@@ -1,0 +1,56 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(river.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgb(235, 239, 235);
+    margin: -8px;
+    padding: 10px;
+}
+
+div{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin: -8px;
+}
+
+.block{
+    display: block;
+    margin-inline: 8px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+}
+
+#otherdiv{
+    background: white;
+}
+
+#h1{
+    font-size: 100px;
+}
+
+button{
+    width: 150px;
+    height: 30px;
+    margin-inline: 8px;
+    border-radius: 30px;
+}
+
+#anotherdiv{
+    flex-direction: column;
+}
+
+#green{
+    border: none;
+    background-color: rgb(129, 241, 142);
+}
