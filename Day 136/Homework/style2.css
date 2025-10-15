@@ -1,0 +1,38 @@
+#container{
+    display: grid;
+    grid-template-rows: 50px 100px;
+    grid-template-columns: 50px 50px 50px;
+    gap: 10px;
+}
+
+#container > div{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#box1{
+    background: rgb(0, 144, 121);
+    grid-column: 1 / 1;
+}
+#box2{
+    background: rgb(195, 74, 55);
+    grid-column: 2 / 2;
+}
+#box3{
+    background: rgb(186, 185, 15);
+    grid-column: 3 / 3;
+}
+#box4{
+    background: rgb(0, 129, 207);
+    grid-column: 1 / 1;
+}
+#box5{
+    background: rgb(228, 123, 16);
+    grid-column: 2 / 2;
+}
+#box6{
+    background: rgb(132, 94, 195);
+    grid-column: 3 / 3;
+}
