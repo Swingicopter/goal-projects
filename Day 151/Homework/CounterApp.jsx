@@ -21,4 +21,4 @@ function CounterApp() {
     ); 
 } 
 
-export default Index;
+export default CounterApp;
