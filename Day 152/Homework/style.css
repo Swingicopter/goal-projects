@@ -1,0 +1,19 @@
+body{
+    background-image: url(WebBanner_Desktop_HolidayCampaign_Slide1.1.png);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+nav{
+    color: black;
+    background: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+    margin: -8px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
